@@ -1,0 +1,38 @@
+[
+    {
+      "label": "Bearish",
+      "data": 6,
+      "borderColor": "red",
+      "fill": false
+    },
+    {
+      "label": "Neutral",
+      "data": 7,
+      "borderColor": "gray",
+      "fill": false
+    },
+    {
+      "label": "Bullish",
+      "data": 4,
+      "borderColor": "green",
+      "fill": false
+    },
+    {
+      "label": "Bullish",
+      "data": 4,
+      "borderColor": "green",
+      "fill": false
+    },
+    {
+      "label": "Bullish",
+      "data": 4,
+      "borderColor": "green",
+      "fill": false
+    },
+    {
+      "label": "Bullish",
+      "data": 4,
+      "borderColor": "green",
+      "fill": false
+    }
+  ]
