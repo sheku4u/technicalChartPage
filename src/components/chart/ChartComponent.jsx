@@ -3,11 +3,6 @@ import sourceData from '../../data/sourceData.json'
 import { Bar } from 'react-chartjs-2';
 import {Chart as ChartJS} from 'chart.js/auto'
  const ChartComponent = () => {
-  // Sample data (you can replace this with your actual data)
-  
-
-
-
 
   return (
     <div className=' w-[34em]'>
